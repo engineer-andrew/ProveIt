@@ -7,3 +7,6 @@ As I write more installments to the guide I'll update this README with which bra
 
 ## First Installment (Angular 2 - Getting Started with Angular CLI)
 The code for the first installment can be found in the first-installment branch of this repository
+
+## Second Installment ()
+The code for the second installment can be found in the second-installment branch of this repository

@@ -1,3 +1,5 @@
-<p>
-  students works!
-</p>
+<div *ngFor="let student of students" (click)="show(student)">
+  {{student.id}} {{student.name}} {{student.teacherId}} {{student.age}}
+</div>
+
+<app-student *ngIf="selectedStudent" [student]="selectedStudent"></app-student>
