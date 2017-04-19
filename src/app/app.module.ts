@@ -9,6 +9,7 @@ import { StudentsComponent } from './students/students.component';
 import { StudentComponent } from './student/student.component';
 import { appRoutes } from './routes';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+import { StudentService } from './common/student.service';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,7 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
     HttpModule,
     RouterModule.forRoot(appRoutes)
   ],
-  providers: [],
+  providers: [StudentService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

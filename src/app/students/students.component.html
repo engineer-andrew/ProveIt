@@ -1,5 +1,3 @@
-<div *ngFor="let student of students" (click)="show(student)">
-  {{student.id}} {{student.name}} {{student.teacherId}} {{student.age}}
+<div *ngFor="let student of students">
+  <a [routerLink]="['/student/' + student.id]">{{student.id}} {{student.name}} {{student.teacherId}} {{student.age}}</a>
 </div>
-
-<app-student *ngIf="selectedStudent" [student]="selectedStudent"></app-student>

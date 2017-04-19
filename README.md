@@ -8,5 +8,11 @@ As I write more installments to the guide I'll update this README with which bra
 ## First Installment (Angular 2 - Getting Started with Angular CLI)
 The code for the first installment can be found in the first-installment branch of this repository
 
-## Second Installment ()
+## Second Installment (Angular 2 - Our First Component)
 The code for the second installment can be found in the second-installment branch of this repository
+
+## Third Installment (Angular 2 - Routing)
+The code for the third installment can be found in the routing branch of this repository
+
+## Fourth Installment (Angular 2 - Routing Part Deux)
+The code for the fourth installment can be found in the routing-part-deux branch of this repository
