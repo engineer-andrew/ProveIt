@@ -5,14 +5,14 @@ This project accompanies a guide for getting started writing an Angular 2 app us
 
 As I write more installments to the guide I'll update this README with which branch corresponds to which installment.  Master will always have the most up-to-date code in it so if you're following the guide (thanks!) from the beginning, make sure to checkout the branch the corresponds with the step you're on.
 
-## First Installment (Angular 2 - Getting Started with Angular CLI)
+## [First Installment (Angular 2 - Getting Started with Angular CLI)](http://answersicouldntfindanywhereelse.blogspot.com/2017/04/angular-2-getting-started-with-angular.html)
 The code for the first installment can be found in the first-installment branch of this repository
 
-## Second Installment (Angular 2 - Our First Component)
+## [Second Installment (Angular 2 - Our First Component)](http://answersicouldntfindanywhereelse.blogspot.com/2017/04/angular-2-our-first-component.html)
 The code for the second installment can be found in the second-installment branch of this repository
 
-## Third Installment (Angular 2 - Routing)
+## [Third Installment (Angular 2 - Routing)](http://answersicouldntfindanywhereelse.blogspot.com/2017/04/angular-2-routing.html)
 The code for the third installment can be found in the routing branch of this repository
 
-## Fourth Installment (Angular 2 - Routing Part Deux)
+## [Fourth Installment (Angular 2 - Routing Part Deux)](http://answersicouldntfindanywhereelse.blogspot.com/2017/04/angular-2-routing-part-deux.html)
 The code for the fourth installment can be found in the routing-part-deux branch of this repository
