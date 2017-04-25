@@ -1,0 +1,11 @@
+<div class="d-flex justify-content-center container p-2 jumbotron">
+  <div class="flex-column d-flex">
+    <h1>{{student.name}}</h1>
+    <div class="flex-column m-2">
+      {{student.name}} lives in {{student.city}}
+    </div>
+    <div class="m-2 text-center">
+        <a [routerLink]="['/students']" >Back to Students</a>
+    </div>
+  </div>
+</div>

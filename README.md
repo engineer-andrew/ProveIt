@@ -16,3 +16,6 @@ The code for the third installment can be found in the routing branch of this re
 
 ## [Fourth Installment (Angular 2 - Routing Part Deux)](http://answersicouldntfindanywhereelse.blogspot.com/2017/04/angular-2-routing-part-deux.html)
 The code for the fourth installment can be found in the routing-part-deux branch of this repository
+
+## [Fifth Installment (Angular 2 - External Libraries)](http://answersicouldntfindanywhereelse.blogspot.com/2017/04/angular-2-external-libraries.html)
+The code for the fifth installment can be found in the external-libraries branch of this repository

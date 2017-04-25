@@ -8,8 +8,7 @@ import 'rxjs/add/observable/of';
 
 @Component({
   selector: 'app-student',
-  template: '<p>{{student.name}} lives in {{student.city}}</p>',
-  styleUrls: ['./student.component.css']
+  templateUrl: './student.component.html'
 })
 export class StudentComponent implements OnInit {
   @Input() student: Student;

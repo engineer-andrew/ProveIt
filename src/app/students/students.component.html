@@ -1,3 +1,10 @@
-<div *ngFor="let student of students">
-  <a [routerLink]="['/student/' + student.id]">{{student.id}} {{student.name}} {{student.teacherId}} {{student.age}}</a>
+<div class="d-flex justify-content-center container p-2 jumbotron">
+  <div class="flex-column d-flex">
+    <h1>Students</h1>
+    <div class="flex-column list-group">
+      <a class="list-group-item list-group-item-action m-2" *ngFor="let student of students" [routerLink]="['/student/' + student.id]">
+        {{student.name}}
+      </a>
+    </div>
+  </div>
 </div>
